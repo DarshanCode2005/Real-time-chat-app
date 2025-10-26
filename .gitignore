@@ -1,0 +1,6 @@
+backend/backend/myenv/
+backend/backend/chat.db
+backend/__pycache__/
+frontend/node_modules/
+backend/myenv/
+backend/chat.db
