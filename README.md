@@ -13,6 +13,12 @@ A modern, real-time chat application built with React and FastAPI, featuring Web
 - **System notifications** - join/leave notifications
 - **Auto-scroll** - automatically scrolls to latest messages
 
+# Screenshot
+<img width="1903" height="915" alt="Screenshot 2025-10-26 062347" src="https://github.com/user-attachments/assets/64f91d05-6865-4342-9c83-50c0b8c4d8dd" />
+
+Video: [Watch Here](https://drive.google.com/file/d/1aL3xKHM4cxQTAhzEzuQFbMnyyM_t1m8b/view?usp=sharing)
+
+
 ## 🛠️ Tech Stack
 
 ### Backend
